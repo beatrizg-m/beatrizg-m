@@ -1,6 +1,6 @@
 ## Olá! eu sou Beatriz Maciel 👋
 - 👩‍🎓 Formada em design de interiores, em processo de migração para área de TI 
-- 🌱 Atualmente estou estudando HTML, CSS, JavaScript, JAVA e Python.
+- 🌱 Atualmente estou estudando HTML, CSS, JavaScript, JAVA, Python e Ruby.
 - 📫 Fale comigo atráves do beatrizg.m@yahoo.com 
 - 😄 Pronomes: ela/dela
 
