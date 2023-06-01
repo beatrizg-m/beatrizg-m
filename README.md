@@ -4,9 +4,8 @@
 - 📫 Fale comigo atráves do beatrizg.m@yahoo.com 
 - 😄 Pronomes: ela/dela
 
-<div style="display: flex">
+<div style="display: flex, flex-content: flex-end">
   <a href="https://github.com/beatrizg-m">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beatrizg-m&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizg-m&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
